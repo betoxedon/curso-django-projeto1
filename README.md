@@ -1,1 +1,1 @@
-# Projeto do curso Django Web Framework
+# project do curso Django Web Framework
